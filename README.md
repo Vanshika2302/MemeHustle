@@ -3,7 +3,7 @@
 MemeHustle is a full-stack web app for creating, sharing, and viewing memes in real time. Built with React, Express, Supabase, and Socket.IO.
 
 ![Screenshot (1032)](https://github.com/user-attachments/assets/abf79eb0-187f-4d9f-b67e-b6838d722560)
-![Uploading Screenshot (1033).png…]()
+![Screenshot (1033)](https://github.com/user-attachments/assets/16453b4d-c592-440a-b3d4-aa25aa06c89b)
 
 
 ---
