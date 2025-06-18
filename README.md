@@ -27,10 +27,12 @@ MemeHustle is a full-stack web app for creating, sharing, and viewing memes in r
 ---
 
 # 🛠️ Getting Started
-# 1. Clone the Repository
+### 1. Clone the Repository
 
+```bash
 git clone https://github.com/Vanshika2302/memehustle.git
 cd memehustle
+
 # 2. Install Dependencies
 # Frontend
 cd memehustle-frontend
