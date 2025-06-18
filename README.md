@@ -26,48 +26,39 @@ MemeHustle is a full-stack web app for creating, sharing, and viewing memes in r
 
 ---
 
-## Getting Started
-
-### 1. Clone the Repository
+# 🛠️ Getting Started
+# 1. Clone the Repository
 
 git clone https://github.com/Vanshika2302/memehustle.git
 cd memehustle
-
-
-### 2. Install Dependencies
-Install frontend and backend dependencies:
----'bash
+# 2. Install Dependencies
+# Frontend
 cd memehustle-frontend
 npm install
 
+# Backend
 cd ../memehustle-backend
 npm install
-
-### 3. Create .env for Backend
-Inside memehustle-backend, create a .env file with:
+# 3. Create .env File (Backend)
+Inside the memehustle-backend folder, create a .env file:
 
 PORT=5000
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_KEY=your-anon-key
+📝 Replace the SUPABASE_URL and SUPABASE_KEY with your actual Supabase credentials.
 
-### 4. Run the App
-Backend:
-
+# 4. Run the App
+# Start Backend
 cd memehustle-backend
 node server.js
-
-Frontend:
-
-cd memehustle-frontend
+# Start Frontend
+cd ../memehustle-frontend
 npm start
-Open your browser at http://localhost:3000
+Open your browser at: http://localhost:3000
 
-### 📂 Folder Structure
-bash
-Copy
-Edit
+# 📂 Folder Structure
+
 MemeHustle/
 ├── memehustle-frontend/     # React frontend
 ├── memehustle-backend/      # Express backend
-├── README.md
-
+├── README.md                # Project documentation
