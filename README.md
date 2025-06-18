@@ -36,7 +36,7 @@ cd memehustle
 
 ### 2. Install Dependencies
 Install frontend and backend dependencies:
-
+---'bash
 cd memehustle-frontend
 npm install
 
