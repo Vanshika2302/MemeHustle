@@ -69,8 +69,9 @@ npm start
 Open your browser at: http://localhost:3000
 
 ## 📂 Folder Structure
-
+```bash
 MemeHustle/
 ├── memehustle-frontend/     # React frontend
 ├── memehustle-backend/      # Express backend
 ├── README.md                # Project documentation
+```
