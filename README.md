@@ -10,7 +10,7 @@ MemeHustle is a full-stack web app for creating, sharing, and viewing memes in r
 
 ##  Tech Stack
 
-- Frontend: **React**, **Tailwind CSS**
+- Frontend: **React**, **HTML**, **CSS**
 - Backend: **Node.js**, **Express**
 - Database: **Supabase**
 - Real-time: **Socket.IO**
