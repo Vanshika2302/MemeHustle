@@ -30,7 +30,6 @@ MemeHustle is a full-stack web app for creating, sharing, and viewing memes in r
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/Vanshika2302/memehustle.git
 cd memehustle
 
@@ -63,7 +62,7 @@ cd memehustle-frontend
 npm start
 Open your browser at http://localhost:3000
 
-📂 Folder Structure
+### 📂 Folder Structure
 bash
 Copy
 Edit
