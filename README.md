@@ -46,7 +46,7 @@ npm install
 cd ../memehustle-backend
 npm install
 ```
-# 3. Create .env File (Backend)
+## 3. Create .env File (Backend)
 Inside the memehustle-backend folder, create a .env file:
 ```bash
 PORT=5000
